@@ -1,6 +1,6 @@
 // test.js code
 let accessToken = "";
-const clientID = "bff84ea4a997437997b3006fa74d3a8c";
+const clientID = "14d048b2eddd422cbf3e81812e0d362d";
 const redirectUrl = "http://192.168.1.15:3000";
 
 
