@@ -12,7 +12,7 @@ Built for the final project of the [Codecademy Pro Intensive - Build Front-End W
 * Code Review - [Overall Score: 16/16](https://github.com/connorads/jamming/issues/1)
 * Credential - [Codecademy Pro Intensive Certification](https://www.credential.net/4wjkoonj)
 
-![image](https://user-images.githubusercontent.com/10026538/66459038-161ede00-ea6c-11e9-814b-ef977d513d1b.png)
+
 
 ## Features
 
